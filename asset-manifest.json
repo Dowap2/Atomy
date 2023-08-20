@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Atomy/static/css/main.e8709739.css",
-    "main.js": "/Atomy/static/js/main.e7702b8e.js",
+    "main.css": "/Atomy/static/css/main.a46b42c4.css",
+    "main.js": "/Atomy/static/js/main.86eff229.js",
     "static/js/787.5ebb89ff.chunk.js": "/Atomy/static/js/787.5ebb89ff.chunk.js",
     "static/media/atomyPDF.pdf": "/Atomy/static/media/atomyPDF.52e4db91d6d1c0aa8e5a.pdf",
     "static/media/profile.jpg": "/Atomy/static/media/profile.15d7ca742ff03efad1d2.jpg",
@@ -11,12 +11,12 @@
     "static/media/phone.png": "/Atomy/static/media/phone.b9e4253e5fac9235c5c4.png",
     "static/media/language.svg": "/Atomy/static/media/language.5778a79b0d61c6f40947957702b501b6.svg",
     "index.html": "/Atomy/index.html",
-    "main.e8709739.css.map": "/Atomy/static/css/main.e8709739.css.map",
-    "main.e7702b8e.js.map": "/Atomy/static/js/main.e7702b8e.js.map",
+    "main.a46b42c4.css.map": "/Atomy/static/css/main.a46b42c4.css.map",
+    "main.86eff229.js.map": "/Atomy/static/js/main.86eff229.js.map",
     "787.5ebb89ff.chunk.js.map": "/Atomy/static/js/787.5ebb89ff.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e8709739.css",
-    "static/js/main.e7702b8e.js"
+    "static/css/main.a46b42c4.css",
+    "static/js/main.86eff229.js"
   ]
 }
