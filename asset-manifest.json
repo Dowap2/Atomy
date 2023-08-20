@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/atomy/static/css/main.e8709739.css",
+    "main.js": "/atomy/static/js/main.2d71d9d9.js",
+    "static/js/787.5ebb89ff.chunk.js": "/atomy/static/js/787.5ebb89ff.chunk.js",
+    "static/media/atomyPDF.pdf": "/atomy/static/media/atomyPDF.52e4db91d6d1c0aa8e5a.pdf",
+    "static/media/profile.jpg": "/atomy/static/media/profile.15d7ca742ff03efad1d2.jpg",
+    "static/media/atomy_logo.png": "/atomy/static/media/atomy_logo.096bd7cfa266cb22637d.png",
+    "static/media/instagram.png": "/atomy/static/media/instagram.c8baf6e4e06afe499134.png",
+    "static/media/kakao-talk.png": "/atomy/static/media/kakao-talk.334c4b6edeeef568baf4.png",
+    "static/media/phone.png": "/atomy/static/media/phone.b9e4253e5fac9235c5c4.png",
+    "static/media/language.svg": "/atomy/static/media/language.5778a79b0d61c6f40947957702b501b6.svg",
+    "index.html": "/atomy/index.html",
+    "main.e8709739.css.map": "/atomy/static/css/main.e8709739.css.map",
+    "main.2d71d9d9.js.map": "/atomy/static/js/main.2d71d9d9.js.map",
+    "787.5ebb89ff.chunk.js.map": "/atomy/static/js/787.5ebb89ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8709739.css",
+    "static/js/main.2d71d9d9.js"
+  ]
+}
